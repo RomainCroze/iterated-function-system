@@ -1,7 +1,7 @@
 ### Iterated Function System
 -----
 
-Method of constructing fractals. Furnished with two examples: Sierpinski triangle and Dragon.
+Fractals construction algorithm. Furnished with two examples: Sierpinski triangle and Dragon.
 
 ### How to use
 -----
